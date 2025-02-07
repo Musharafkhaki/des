@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0; /* Light gray background */
+}
+
+.image-display {
+    max-width: 100%; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
